@@ -18,7 +18,7 @@ $ bundle install
 $ rake db:migrate
 ```
 **Ready!**  
-Run the server with `$ rails server` and load localhost:8000 in your favorite browser.
+Run the server with `$ rails server` and load localhost:3000 in your favorite browser.
 
 ## API Endpoint
 
