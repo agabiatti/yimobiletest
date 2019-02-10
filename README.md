@@ -3,7 +3,7 @@
 
 **Clone the repository:**  
 ```shell
-$ git clone 
+$ git clone git@github.com:agabiatti/yimobiletest.git
 $ cd yimobiletest
 ```
 ### Development  
